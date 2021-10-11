@@ -1,0 +1,7 @@
+this app is used by 2 users:
+admin,normal user
+user can sign up , registre ,edit profile, add expenses ,add income, and a chart 
+(overview of expenses and income), view history of expenses and income with title ,description ,amount,datt
+and edit it (only see by the user), interface of a number of transactions, and everage transaction
+admin can  authentifier,access in interface dashbord who can see all the records of all users , all the history of expences and income of users
+and a chart of all the users, and Net profit
